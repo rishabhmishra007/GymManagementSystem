@@ -2,7 +2,7 @@
 <h1>
   <div  align="center">
   <a  href="https://github.com/inupaUdara/gym-management-system">
-      <h1>MyGym</h1>h1>
+      <h1>MyGym</h1>
   </a>
 </h1>
 <p align=center>Gym Management System</p>
@@ -15,12 +15,6 @@ The gym management system for CJ gym offers a comprehensive solution using MERN 
 ## Getting started
 
 ### 1. Clone the `gym-management-system` repository
-
-See instructions [here](https://github.com/t-ho/mern-stack/blob/expo/README.md)**
-
-```bash
-git clone https://github.com/t-ho/mern-stack.git
-```
 
 ### 2. Install package dependencies
 
