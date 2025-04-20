@@ -53,8 +53,6 @@ npm run dev
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redux/redux-original.svg" height="40" alt="redux-logo"  />
   <img width="12" />
-  <img src="https://flowbite.com/docs/images/logo.svg" height="40" alt="flowbite"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/materialui/materialui-plain.svg" height="40" alt="maeterial ui"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/firebase/firebase-original-wordmark.svg" height="40" alt="firebase logo"  />
