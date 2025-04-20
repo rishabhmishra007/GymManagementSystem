@@ -2,7 +2,7 @@
 <h1>
   <div  align="center">
   <a  href="https://github.com/inupaUdara/gym-management-system">
-      <img  src="https://github.com/inupaUdara/gym-management-system/blob/final/client/src/assets/cjgym.png"  alt="Logo" >
+      <h1>MyGym</h1>h1>
   </a>
 </h1>
 <p align=center>Gym Management System</p>
