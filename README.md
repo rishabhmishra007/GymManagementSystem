@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <h1>
   <div  align="center">
-  <a  href="https://github.com/inupaUdara/gym-management-system">
+  <a  href="https://github.com/rishabhmishra007/GymManagementSystem.git">
       <h1>MyGym</h1>
   </a>
 </h1>
