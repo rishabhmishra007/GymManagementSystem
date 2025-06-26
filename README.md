@@ -9,7 +9,7 @@
 <br>
 
 ## Project Description
-The gym management system for CJ gym offers a comprehensive solution using MERN stack. It  manages members, schedules, staff, subscriptions, finances, inventory, supplements, and provides personalized coaching. This helps streamline gym operations, boost member engagement, and grow the business.
+The gym management system offers a comprehensive solution using MERN stack. It  manages members, schedules, staff, subscriptions, finances, inventory, supplements, and provides personalized coaching. This helps streamline gym operations, boost member engagement, and grow the business.
 
 
 ## Getting started
